@@ -1,0 +1,302 @@
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.navbar-nav{
+	width: 90%;
+	justify-content: center;
+	margin-left: auto;
+}
+
+.navbar-nav li a{
+	padding-left:30px !important;
+	padding-right:30px !important; 
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+color: #464646; 
+}
+
+.docs-logo{
+	width: 25px;
+	height: 25px;
+}
+
+.docs{font-size: 20px;color: #464646;}
+.mackbook{display: block; margin: 0 auto;width: 401px;
+height: 317px;}
+.extrag{padding:0 0px;}
+
+.extrag h2{
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+color: #464646;	
+max-width: 450px;
+}
+
+.extrag p{
+	font-size: 12px;
+	line-height: 16px;
+	color: #818181;
+	max-width: 477px;
+	line-height: 20px;
+}
+
+.acces-login input{
+width: 250px;
+height: 35px;
+left: 220px;
+top: 422px;
+background: #F8F8F8;
+border-radius: 3px;
+padding:0 15px;
+border: none; 
+font-size: 12px;
+}
+
+.acces-login input:focus{
+	outline: none;
+	font-size: 12px;
+}
+
+.acces-login input::placeholder{
+	font-size: 12px;
+}
+
+.acces-login button{
+width: 164px;
+height: 35px;
+background: #28A745;
+border-radius: 3px;
+border: 0;
+color: #fff;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+}
+
+.acces-login button:focus{
+	outline: 0;
+	box-shadow:none; 
+}
+
+.cum{
+	text-align: center;
+	margin-bottom: 70px;
+}
+
+.cum h2{
+	font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+color: #464646;
+}
+
+.cum img{
+	width: 660px;
+	height: 370px
+}
+
+.cum-specification h6{
+font-size: 18px;
+line-height: 27px;
+color: #1B80E4;
+}
+
+.cum-specification p{
+font-size: 12px;
+line-height: 16px;
+color: #818181;
+max-width: 325px;
+}
+
+.mt-10{
+	/*margin-top: 170px !important;*/
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.mt-7{
+	margin-top: 70px !important;
+}
+
+.am1{
+	width: 40px;
+	height: 40px;
+}
+
+.media-desc h6{
+font-size: 18px;
+line-height: 27px;
+color: #464646;
+}
+
+.media-desc p{
+font-size: 12px;
+line-height: 16px;
+color: #818181;
+max-width: 290px;
+}
+
+.owl-nav{
+	display: none;
+}
+
+.owl-img{
+	width: 235px;
+	height: 79px;
+	display: block;
+	margin: 0 auto;
+}
+
+.owl-dots{
+	margin-top: 20px;
+}
+
+.owl-dot:focus{
+	outline: none;
+	border: none;
+}
+
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #ac5bc3 !important;
+}
+
+.prese{
+	text-align: center;
+}
+
+.prese h2{
+	font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+color: #464646;
+margin-bottom: 35px !important;
+}
+
+.prese-pad{
+	padding:127px 0; 
+}
+
+.copyright span{
+	font-weight: 300;
+font-size: 8px;
+line-height: 12px;
+text-align: center;
+color: #818181;
+display: block;
+padding-top:48px; 
+}
+
+.footer{
+	margin-top: 55px;
+	margin-bottom: 40px;
+}
+
+@media(max-width: 330px){
+	.navbar{padding-left: 0!important; padding-right: 0 !important;}
+}
+
+@media(min-width: 320px) and (max-width: 576px){
+	.mackbook{
+		width: 100%;
+		height: auto;
+	}
+
+	.extrag h2 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #464646;
+    max-width: 450px;
+    }
+
+    .navbar-nav{
+    	margin-top: 20px;
+    }
+
+    .navbar-text{
+		display: block;
+		text-align: center;
+	}
+
+	.acces-login{
+		text-align: center;
+	}
+
+	.acces-login button{
+		margin-top: 20px;
+	}
+
+	.mac-col{
+		margin-top: 30px;
+	}
+
+	.owl-img{
+		margin-bottom: 15px;
+	}
+
+	.cum img{
+		width: 100%;
+		height: auto;
+	}
+
+	.acces-login input {
+        width: 173px;
+    }
+
+    .acces-login button {
+       width: 112px;
+    }
+
+}
+
+@media(min-width: 577px) and (max-width: 767px){ 
+		.navbar-text{
+			display: block;
+			margin: 0 auto;
+			text-align: center;
+		}
+
+		.mac-col{
+			margin-top: 30px;
+		}
+
+		.owl-img{
+			margin-bottom: 20px;
+		}
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+	.mackbook{
+		width: 100%;
+		height: auto;
+	}
+
+	.extrag h2 {
+	    font-weight: 500;
+	    font-size: 24px;
+	    line-height: 30px;
+	    color: #464646;
+	    max-width: 450px;
+	}
+
+	.acces-login button{
+		margin-top: 10px;
+	}
+
+	.navbar-text{
+		display: block;
+		text-align: center;
+	}
+
+	.owl-img{
+		width: 100%;
+	}
+}
