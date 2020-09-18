@@ -33,16 +33,16 @@
 	  <div class="collapse navbar-collapse" id="navbarText">
 	    <ul class="navbar-nav mr-auto">
 	      <li class="nav-item active">
-	        <a class="nav-link" href="#">Cum Lucrează</a>
+	        <a class="nav-link" href="#cumlucreaza">Cum Lucrează</a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link" href="#">Avantaje</a>
+	        <a class="nav-link" href="#avantaje">Avantaje</a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link" href="#">Contacte</a>
+	        <a class="nav-link" href="#contacte">Contacte</a>
 	      </li>
 	    </ul>
-	    <span class="navbar-text">
+	    <span class="navbar-text" style="display: none;">
 	      <a href="javascript:void(0)" class="nav-link">Login</a>
 	    </span>
 	  </div>
@@ -60,8 +60,10 @@
 					<p>Utilizează puterea Inteligenței Artificiale pentru a capta datele importante mai eficient. Reduce introducerea manuală a datelor și verifică corectitudinea fișierelor.</p>
 
 				<div class="acces-login mt-5">
-					<input type="email" name="email" placeholder="your@email.com" />
-					<button type="btn">Primește access</button>
+					<form>
+						<input type="email" name="email" required placeholder="your@email.com" />
+						<button type="btn">Primește access</button>
+					</form>
 				</div>
 
 				</div>
@@ -78,8 +80,13 @@
 <section class="mt-10" style="background-color: #F8F8F8;">
 	<div class="container">
 		<div class="cum">
-			<h2 >Cum Lucrează</h2>
-			<img src="images/particle.jpeg" alt="particle" class="img-fluid mt-4" />
+			<h2 id='cumlucreaza' >Cum Lucrează</h2>
+			<!-- <img src="images/particle.jpeg" alt="particle" class="img-fluid mt-4" /> -->
+			<video style="width1: 70%;" class="img-fluid mt-4"  controls>
+			  <source src="images/m.mp4" type="video/mp4">
+			  <source src="movie.ogg" type="video/ogg">
+				Your browser does not support the video tag.
+			</video>
 		</div>
 
 		<div class="row mt-5">
@@ -109,7 +116,7 @@
 <section class="mt-10">
 	<div class="container">
 		<div class="cum">
-			<h2 class="mt-5">Avantaje</h2>
+			<h2  id='avantaje'  class="mt-5">Avantaje</h2>
 		</div>
 
 		<div class="row mt-5">
@@ -172,16 +179,16 @@
 
 		<div class="row">
 			<div class="col-md-3 col-sm-6">
-				<img src="images/owl-1.jpg" alt="owl-img" class="owl-img" />
+				<img src="images/ducont.png" alt="owl-img" class="owl-img" />
 			</div>
 			<div class="col-md-3 col-sm-6">
-				<img src="images/owl-2.jpg" alt="owl-img" class="owl-img" />
+				<img src="images/una.md.png" alt="owl-img" class="owl-img" />
 			</div>
 			<div class="col-md-3 col-sm-6">
-				<img src="images/owl-1.jpg" alt="owl-img" class="owl-img" />
+				<img src="images/rosplav.png" alt="owl-img" class="owl-img" />
 			</div>
 			<div class="col-md-3 col-sm-6">
-				<img src="images/owl-2.jpg" alt="owl-img" class="owl-img" />
+				<img src="images/icontabil.png" alt="owl-img" class="owl-img" />
 			</div>
 		</div>
 
@@ -221,15 +228,17 @@
 </section>
 
 
-<section class="prese-pad">
+<section  class="prese-pad">
 	<div class="container">
 		<div class="prese">
-			<h2 class="m-0">Primește access</h2>
+			<h2  id='contacte' class="m-0">Primește access</h2>
 		</div>
 
 		<div class="acces-login mt-1 text-center">
-				<input type="email" name="email" placeholder="your@email.com" />
+			<form>
+				<input type="email" name="email" required placeholder="your@email.com" />
 				<button type="btn">Primește access</button>
+			</form>
 	    </div>
     </div>
 </section>
@@ -238,12 +247,12 @@
 	<div class="container">
 		<ul class="nav justify-content-center">
 		  <li class="nav-item">
-		    <a class="nav-link active" href="#">
+		    <a class="nav-link active" href="https://www.facebook.com/smartAItomation/" target='_blank'>
 		    	<img src="images/facebook.png" alt="facebook" class="social-icon" />
 		    </a>
 		  </li>
 		  <li class="nav-item">
-		  	<a class="nav-link active" href="#">
+		  	<a class="nav-link active" href="https://www.linkedin.com/company/34751189"  target='_blank'>
 		    	<img src="images/linkedin.png" alt="facebook" class="social-icon" />
 			</a>
 		  </li>
@@ -260,12 +269,14 @@
 	</div>
 </footer>
 
+<!-- <div class="typeform-widget" data-url="https://form.typeform.com/to/Nb1FJIJf" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=Nb1FJIJf&utm_source=typeform.com-01EH9DV8C5WW9HCHNM372WFBZY-free&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div> -->
 
 	  
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/bootstrap.min.js" ></script>
     <script src="js/owl.carousel.min.js"></script>
+    <script src="js/script.js"></script>
 	  
 	  <script>
 	  	$('.owl-carousel').owlCarousel({

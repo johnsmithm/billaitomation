@@ -199,8 +199,11 @@ padding-top:48px;
 	margin-bottom: 40px;
 }
 
+video {width:70%;}
+
 @media(max-width: 330px){
 	.navbar{padding-left: 0!important; padding-right: 0 !important;}
+	video {width:100%;}
 }
 
 @media(min-width: 320px) and (max-width: 576px){
@@ -208,6 +211,7 @@ padding-top:48px;
 		width: 100%;
 		height: auto;
 	}
+	video {width:100%;}
 
 	.extrag h2 {
     font-weight: 500;
@@ -271,6 +275,7 @@ padding-top:48px;
 		.owl-img{
 			margin-bottom: 20px;
 		}
+	video {width:100%;}
 }
 
 @media(min-width: 768px) and (max-width: 991px){
