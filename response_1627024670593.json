@@ -1,0 +1,2414 @@
+{
+  "extracted_fields": [
+    {
+      "bbox": {
+        "h": 13,
+        "w": 72,
+        "x": 640,
+        "y": 209
+      },
+      "confidence": 1,
+      "name": "numar_factura",
+      "value": "2925343"
+    },
+    {
+      "bbox": {
+        "h": 13,
+        "w": 72,
+        "x": 640,
+        "y": 209
+      },
+      "confidence": 1,
+      "name": "seria_factura",
+      "value": "AAL"
+    },
+    {
+      "bbox": {
+        "h": 14,
+        "w": 171,
+        "x": 533,
+        "y": 290
+      },
+      "confidence": 0.9666666666666667,
+      "name": "data_eliberare",
+      "value": "02-07-2020"
+    },
+    {
+      "bbox": {
+        "h": 19.000000000000004,
+        "w": 110.00000000000001,
+        "x": 349,
+        "y": 354
+      },
+      "confidence": null,
+      "name": "furnizor",
+      "value": "SA Amazom ,"
+    },
+    {
+      "bbox": {
+        "h": 14,
+        "w": 95,
+        "x": 1157,
+        "y": 366
+      },
+      "confidence": 1,
+      "name": "cod_fiscal_furnizor",
+      "value": "100260422222"
+    },
+    {
+      "bbox": {
+        "h": 14,
+        "w": 103,
+        "x": 1157,
+        "y": 417
+      },
+      "confidence": 1,
+      "name": "cod_fiscal_client",
+      "value": "1003600030333"
+    }
+  ],
+  "invoice_id": "60f970a7ecc0a85546fd3dec",
+  "line_items": [
+    [
+      {
+        "bbox": {
+          "h": 16,
+          "w": 54,
+          "x": 1094,
+          "y": 702
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "2880.0"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 24,
+          "x": 680,
+          "y": 703
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "120"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 18,
+          "x": 928,
+          "y": 703
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 111,
+          "x": 139,
+          "y": 703
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Analiza Datelor"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 37,
+          "x": 745,
+          "y": 703
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "22.22"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 24,
+          "x": 588,
+          "y": 703
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "buc"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 55,
+          "x": 819,
+          "y": 703
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "2666.67"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 47,
+          "x": 983,
+          "y": 703
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "213.33"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 14,
+          "w": 18,
+          "x": 928,
+          "y": 730
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 17,
+          "w": 38,
+          "x": 746,
+          "y": 730
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "23.15"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 55,
+          "x": 819,
+          "y": 730
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "6481.48"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 76,
+          "x": 140,
+          "y": 731
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Pere 2020"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 54,
+          "x": 1092,
+          "y": 731
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "7000.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 24,
+          "x": 588,
+          "y": 731
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "buc"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 46,
+          "x": 982.0000000000001,
+          "y": 731
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "518.52"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 25,
+          "x": 680,
+          "y": 732
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "280"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 14,
+          "w": 30,
+          "x": 916.9999999999999,
+          "y": 758
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "20"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 72,
+          "x": 139,
+          "y": 758
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Mere rosii"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 39,
+          "x": 744,
+          "y": 758
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "45.83"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 54,
+          "x": 820.9999999999999,
+          "y": 758
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "1375.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 47,
+          "x": 983,
+          "y": 759
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "275.0"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 15,
+          "x": 689,
+          "y": 760
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "30"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 54,
+          "x": 1095,
+          "y": 760
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "1650.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 15,
+          "x": 592,
+          "y": 761
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 18,
+          "w": 158,
+          "x": 140,
+          "y": 785
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 21"
+      },
+      {
+        "bbox": {
+          "h": 19,
+          "w": 45,
+          "x": 1102,
+          "y": 785
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "204.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 30,
+          "x": 916.9999999999999,
+          "y": 786
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "20"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 38,
+          "x": 745,
+          "y": 786
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "10.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 24,
+          "x": 588,
+          "y": 786
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "buc"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 38,
+          "x": 992,
+          "y": 786
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "34.0"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 47,
+          "x": 828.9999999999999,
+          "y": 787
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "170.0"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 15,
+          "x": 689,
+          "y": 788.9999999999999
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "17"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 15,
+          "w": 38,
+          "x": 992,
+          "y": 812.9999999999999
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "39.67"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 30,
+          "x": 916.9999999999999,
+          "y": 814
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "20"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 158,
+          "x": 140,
+          "y": 814
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 22"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 35,
+          "x": 747,
+          "y": 814
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "11.67"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 24,
+          "x": 588,
+          "y": 814
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "buc"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 47,
+          "x": 828.9999999999999,
+          "y": 814
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "198.33"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 46,
+          "x": 1101,
+          "y": 815
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "238.0"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 16,
+          "x": 688,
+          "y": 816
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "17"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 16,
+          "w": 158,
+          "x": 139,
+          "y": 840
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 23"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 17,
+          "x": 928.9999999999999,
+          "y": 840.9999999999999
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 37,
+          "x": 746,
+          "y": 840.9999999999999
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "11.39"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 55,
+          "x": 820,
+          "y": 840.9999999999999
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "2505.56"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 25,
+          "x": 679,
+          "y": 842
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "220"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 54,
+          "x": 1094,
+          "y": 842
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "2706.0"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 24,
+          "x": 587,
+          "y": 842
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "buc"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 47,
+          "x": 983,
+          "y": 842
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "200.44"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 15,
+          "w": 17,
+          "x": 928.9999999999999,
+          "y": 868
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 159,
+          "x": 138,
+          "y": 868
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "| Produs cu numarul 24"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 37,
+          "x": 746,
+          "y": 868
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "11.85"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 47,
+          "x": 1101,
+          "y": 868
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "448.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 38,
+          "x": 991,
+          "y": 868
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "33.19"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 23,
+          "x": 589,
+          "y": 868.9999999999999
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "buc"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 47,
+          "x": 827,
+          "y": 868.9999999999999
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "414.81"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 16,
+          "x": 689,
+          "y": 870
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "35"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 18,
+          "w": 158,
+          "x": 140,
+          "y": 894
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 25"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 19,
+          "x": 928.9999999999999,
+          "y": 895
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 38,
+          "x": 745,
+          "y": 896
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "44.91"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 55,
+          "x": 1094,
+          "y": 896
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "1455.0"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 15,
+          "x": 593,
+          "y": 896
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 54,
+          "x": 820.9999999999999,
+          "y": 896
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "1347.22"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 46,
+          "x": 984,
+          "y": 896
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "107.78"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 16,
+          "x": 689,
+          "y": 896.9999999999999
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "30"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 15,
+          "w": 26,
+          "x": 927,
+          "y": 923
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 158,
+          "x": 140,
+          "y": 923
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 26"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 39,
+          "x": 744,
+          "y": 923
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "48.15"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 54,
+          "x": 1093,
+          "y": 923
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "2704.0"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 55,
+          "x": 819,
+          "y": 923
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "2503.7"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 47,
+          "x": 983,
+          "y": 924
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "200.3"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 15,
+          "x": 688,
+          "y": 926
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "52"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 15,
+          "x": 592,
+          "y": 926
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 14,
+          "w": 18,
+          "x": 928,
+          "y": 950.0000000000001
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 18,
+          "w": 158,
+          "x": 140,
+          "y": 950.0000000000001
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 27"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 38,
+          "x": 745,
+          "y": 951
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "25.46"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 56,
+          "x": 1092,
+          "y": 951
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "9350.0"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 55,
+          "x": 820,
+          "y": 951
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "8657.41"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 25,
+          "x": 680,
+          "y": 952
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "340"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 15,
+          "x": 593,
+          "y": 952
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 47,
+          "x": 983,
+          "y": 952
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "692.59"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 17,
+          "w": 158,
+          "x": 140,
+          "y": 976.9999999999999
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 28"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 55,
+          "x": 1093,
+          "y": 978.0000000000001
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "1296.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 38,
+          "x": 991,
+          "y": 978.0000000000001
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "96.0"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 24,
+          "x": 681,
+          "y": 979
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "270"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 22,
+          "x": 927,
+          "y": 979
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 54,
+          "x": 820.9999999999999,
+          "y": 979
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "1200.0"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 30,
+          "x": 753,
+          "y": 980
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "4.44"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 14,
+          "x": 593,
+          "y": 980
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 16,
+          "w": 158,
+          "x": 139,
+          "y": 1004
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 29"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 46,
+          "x": 828,
+          "y": 1004
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "977.78"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 55,
+          "x": 1094,
+          "y": 1004.9999999999999
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "1056.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 38,
+          "x": 991,
+          "y": 1004.9999999999999
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "78.22"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 25,
+          "x": 679,
+          "y": 1006.0000000000001
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "220"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 22,
+          "x": 927,
+          "y": 1006.0000000000001
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 30,
+          "x": 753,
+          "y": 1006.0000000000001
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "4.44"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 15,
+          "x": 593,
+          "y": 1007
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 16,
+          "w": 158,
+          "x": 140,
+          "y": 1033
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 30"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 37,
+          "x": 1110,
+          "y": 1033
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "48.0"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 40,
+          "x": 836,
+          "y": 1033
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "44.44"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 29,
+          "x": 1000,
+          "y": 1033
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "3.56"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 22,
+          "x": 926,
+          "y": 1034
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 28,
+          "x": 755,
+          "y": 1034
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "4.44"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 16,
+          "x": 688,
+          "y": 1036
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "10"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 16,
+          "x": 592,
+          "y": 1036
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 17,
+          "w": 49,
+          "x": 828,
+          "y": 1060
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "422.22"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 26,
+          "x": 926,
+          "y": 1061
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 158,
+          "x": 139,
+          "y": 1061
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 31"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 28,
+          "x": 754,
+          "y": 1061
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "7.41"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 48,
+          "x": 1100,
+          "y": 1061
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "456.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 38,
+          "x": 991,
+          "y": 1061
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "33.78"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 15,
+          "x": 593,
+          "y": 1062
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 15,
+          "x": 689,
+          "y": 1063
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "57"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 19,
+          "w": 158,
+          "x": 140,
+          "y": 1086
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 32"
+      },
+      {
+        "bbox": {
+          "h": 17,
+          "w": 29,
+          "x": 1120,
+          "y": 1087
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "8.0"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 31,
+          "x": 999,
+          "y": 1087
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "0.59"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 7,
+          "x": 698,
+          "y": 1088
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "1"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 18,
+          "x": 928.9999999999999,
+          "y": 1088
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 29,
+          "x": 755,
+          "y": 1088
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "7.41"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 29,
+          "x": 846,
+          "y": 1088
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "7.41"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 15,
+          "x": 593,
+          "y": 1090
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 17,
+          "w": 158,
+          "x": 140,
+          "y": 1114
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 33"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 19,
+          "x": 928.9999999999999,
+          "y": 1115
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 28,
+          "x": 754,
+          "y": 1115
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "7.41"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 34,
+          "x": 1113,
+          "y": 1115
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "32.0"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 38,
+          "x": 838,
+          "y": 1115
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "29.63"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 29,
+          "x": 1000,
+          "y": 1115
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "2.37"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 15,
+          "x": 593,
+          "y": 1117
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 8,
+          "x": 697,
+          "y": 1118
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "4"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 18,
+          "w": 158,
+          "x": 140,
+          "y": 1142
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 34"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 29,
+          "x": 754,
+          "y": 1142
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "7.6899999999999995"
+      },
+      {
+        "bbox": {
+          "h": 17,
+          "w": 47,
+          "x": 828.9999999999999,
+          "y": 1142
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "668.61"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 37,
+          "x": 991,
+          "y": 1142
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "53.49"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 18,
+          "x": 928.9999999999999,
+          "y": 1143
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 47,
+          "x": 1102,
+          "y": 1143
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "722.1"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 15,
+          "x": 593,
+          "y": 1143
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 16,
+          "x": 688,
+          "y": 1145
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "87"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 17,
+          "w": 158,
+          "x": 139,
+          "y": 1169
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 35"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 52,
+          "x": 1096,
+          "y": 1170
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "1826.0"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 25,
+          "x": 680,
+          "y": 1171
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "220"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 22,
+          "x": 926,
+          "y": 1171
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 29,
+          "x": 754,
+          "y": 1171
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "7.6899999999999995"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 54,
+          "x": 820.9999999999999,
+          "y": 1171
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "1690.74"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 46,
+          "x": 984,
+          "y": 1171
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "135.26"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 15,
+          "x": 592,
+          "y": 1172
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 17,
+          "w": 158,
+          "x": 140,
+          "y": 1197
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 36"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 29,
+          "x": 754,
+          "y": 1198
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "7.6899999999999995"
+      },
+      {
+        "bbox": {
+          "h": 18,
+          "w": 47,
+          "x": 1101,
+          "y": 1198
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "830.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 38,
+          "x": 991,
+          "y": 1198
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "61.48"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 22,
+          "x": 927,
+          "y": 1199
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 17,
+          "w": 15,
+          "x": 593,
+          "y": 1199
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 46,
+          "x": 828.9999999999999,
+          "y": 1199
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "768.52"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 24,
+          "x": 681,
+          "y": 1200
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "100"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 16,
+          "w": 158,
+          "x": 140,
+          "y": 1225
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 37"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 52,
+          "x": 822,
+          "y": 1225
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "1306.48"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 24,
+          "x": 680,
+          "y": 1226
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "170"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 22,
+          "x": 926,
+          "y": 1226
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 29,
+          "x": 754,
+          "y": 1226
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "7.6899999999999995"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 46,
+          "x": 983,
+          "y": 1226
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "104.52"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 51,
+          "x": 1096,
+          "y": 1227
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "1411.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 15,
+          "x": 592,
+          "y": 1228
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 14,
+          "w": 18,
+          "x": 928,
+          "y": 1253
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 158,
+          "x": 139,
+          "y": 1253
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 38"
+      },
+      {
+        "bbox": {
+          "h": 13,
+          "w": 29,
+          "x": 753,
+          "y": 1253
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "4.17"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 47,
+          "x": 1101,
+          "y": 1253
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "135.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 38,
+          "x": 991,
+          "y": 1253
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "10.0"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 16,
+          "x": 688,
+          "y": 1254
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "30"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 14,
+          "x": 593,
+          "y": 1254
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 47,
+          "x": 828.9999999999999,
+          "y": 1254
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "125.0"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 14,
+          "w": 26,
+          "x": 926,
+          "y": 1280
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 158,
+          "x": 139,
+          "y": 1280
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 39"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 45,
+          "x": 1102,
+          "y": 1280
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "135.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 47,
+          "x": 828,
+          "y": 1280
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "125.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 38,
+          "x": 991,
+          "y": 1280
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "10.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 29,
+          "x": 753,
+          "y": 1281
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "4.17"
+      },
+      {
+        "bbox": {
+          "h": 12,
+          "w": 16,
+          "x": 689,
+          "y": 1282
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "30"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 14,
+          "x": 593,
+          "y": 1282
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 17,
+          "w": 31,
+          "x": 752,
+          "y": 1306
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "4.17"
+      },
+      {
+        "bbox": {
+          "h": 17,
+          "w": 158,
+          "x": 140,
+          "y": 1307
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 40"
+      },
+      {
+        "bbox": {
+          "h": 17,
+          "w": 38,
+          "x": 991,
+          "y": 1307
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "10.0"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 45,
+          "x": 1103,
+          "y": 1308
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "135.0"
+      },
+      {
+        "bbox": {
+          "h": 16,
+          "w": 47,
+          "x": 828.9999999999999,
+          "y": 1308
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "125.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 16,
+          "x": 689,
+          "y": 1309
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "30"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 18,
+          "x": 928.9999999999999,
+          "y": 1309
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 16,
+          "x": 592,
+          "y": 1311
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 13,
+          "w": 7,
+          "x": 697,
+          "y": 1335
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "7"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 158,
+          "x": 140,
+          "y": 1335
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 41"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 38,
+          "x": 746,
+          "y": 1335
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "12.04"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 37,
+          "x": 1111,
+          "y": 1335
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "91.0"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 29,
+          "x": 1000,
+          "y": 1335
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "6.74"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 18,
+          "x": 928.9999999999999,
+          "y": 1336
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 37,
+          "x": 838,
+          "y": 1336
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "84.26"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 15,
+          "x": 592,
+          "y": 1338
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ],
+    [
+      {
+        "bbox": {
+          "h": 14,
+          "w": 18,
+          "x": 928.9999999999999,
+          "y": 1363
+        },
+        "confidence": 99,
+        "name": "cota_tva",
+        "value": "8"
+      },
+      {
+        "bbox": {
+          "h": 18,
+          "w": 158,
+          "x": 140,
+          "y": 1363
+        },
+        "confidence": 99,
+        "name": "descriere",
+        "value": "Produs cu numarul 42"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 38,
+          "x": 745,
+          "y": 1363
+        },
+        "confidence": 99,
+        "name": "pret_unitar",
+        "value": "12.04"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 33,
+          "x": 1113,
+          "y": 1363
+        },
+        "confidence": 99,
+        "name": "suma_totala",
+        "value": "26.0"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 37,
+          "x": 838,
+          "y": 1363
+        },
+        "confidence": 99,
+        "name": "valoare_totala_fara_tva",
+        "value": "24.07"
+      },
+      {
+        "bbox": {
+          "h": 14,
+          "w": 29,
+          "x": 1000,
+          "y": 1363
+        },
+        "confidence": 99,
+        "name": "valoare_tva",
+        "value": "1.9300000000000002"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 6,
+          "x": 697,
+          "y": 1364
+        },
+        "confidence": 99,
+        "name": "cantitate",
+        "value": "2"
+      },
+      {
+        "bbox": {
+          "h": 15,
+          "w": 14,
+          "x": 593,
+          "y": 1364
+        },
+        "confidence": 99,
+        "name": "unitate_masura",
+        "value": "kg"
+      },
+      {
+        "name": "cod_produs",
+        "value": "1343"
+      }
+    ]
+  ],
+  "status": "success",
+  "url_invoice": "https://app.billheap.com/boxui?invoice=static1/data/cont56/clr/file_3.pdf&age=2",
+  "verify_url": "https://app.billheap.com/verificare?id=60f970a7ecc0a85546fd3dec&api_key=None"
+}
